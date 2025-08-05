@@ -9,7 +9,7 @@ It combines OpenAI’s GPT model with a local vector store for context-aware res
 This assistant helps users, developers, and support teams get quick and accurate product insights.
 
 <p align="center">
-  <img src="assets/output.gif" alt="Indoor Gear" width="30%" />
+  <img src="assets/output.gif" alt="Indoor Gear" width="100%" />
 </p>
 
 ---
@@ -41,10 +41,6 @@ PA_chatbot/
 ├── requirements.txt       # List of required Python libraries
 └── README.md              # Project documentation
 ```
-
-🔗 Built with **LangChain**, **OpenAI**, **ChromaDB**, and **Streamlit**  
-🧠 Powered by **Retrieval-Augmented Generation**
-
 ---
 
 ## ⚙️ Working Procedure
@@ -114,3 +110,5 @@ In your browser, try questions like:
 
 ---
 
+🔗 Built with **LangChain**, **OpenAI**, **ChromaDB**, and **Streamlit**  
+🧠 Powered by **Retrieval-Augmented Generation**
