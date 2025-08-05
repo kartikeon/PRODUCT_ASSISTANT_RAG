@@ -2,11 +2,7 @@
 
 ## 🧠 About Product Assistant RAG
 
-The Product Assistant RAG is an intelligent chatbot built using Retrieval-Augmented Generation (RAG).  
-It answers questions about the RVPro bot based on its hardware and software documentation.  
-The chatbot uses Markdown (`.md`) files as the knowledge source for product specifications.  
-It combines OpenAI’s GPT model with a local vector store for context-aware responses.  
-This assistant helps users, developers, and support teams get quick and accurate product insights.
+The Product Assistant RAG is an intelligent chatbot built using Retrieval-Augmented Generation (RAG). It answers questions about the RVPro bot based on its hardware and software documentation. The chatbot uses Markdown (`.md`) files as the knowledge source for product specifications. It combines OpenAI’s GPT model with a local vector store for context-aware responses. This assistant helps users, developers, and support teams get quick and accurate product insights.
 
 <p align="center">
   <img src="assets/output.gif" alt="Indoor Gear" width="100%" />
@@ -16,10 +12,7 @@ This assistant helps users, developers, and support teams get quick and accurate
 
 ## 🔍 What is RAG?
 
-RAG (Retrieval-Augmented Generation) is a method that combines document retrieval with text generation.  
-It allows a language model to pull relevant context from a knowledge base before answering.  
-This makes responses more accurate, up-to-date, and domain-specific.  
-It’s especially useful in chatbots that need to answer based on custom data or documents.  
+RAG (Retrieval-Augmented Generation) is a method that combines document retrieval with text generation. It allows a language model to pull relevant context from a knowledge base before answering. This makes responses more accurate, up-to-date, and domain-specific. It’s especially useful in chatbots that need to answer based on custom data or documents.  
 RAG systems typically use embeddings, vector databases, and LLMs together.
 
 ---
